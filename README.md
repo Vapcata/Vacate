@@ -1,4 +1,3 @@
-# Alexander Vaptsarov
 ### Natural Language Processing | Computer Vision | Software Development | Web Development
 ---
 ### 💡 About Me
