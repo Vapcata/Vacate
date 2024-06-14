@@ -13,7 +13,7 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 ---
 
 ### 💡 About Me
-\[Insert your personal bio here, detailing your professional background, key skills, and personal interests relevant to your professional life.\]
+\ I have a growing interest in Natural Language Proccessing and Computer Vision and I always like to learn new things 
 
 ---
 
