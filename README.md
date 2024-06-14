@@ -11,5 +11,5 @@
 - **Tools:** Jupyter, ChatGPT and more. (за ся толкоз) -->
 ### 🎓 Education
 - **Technische Hochschule Ingolstadt**
-  - Field of Study: Computer Science and Artificiall Intelligence
+  - Field of Study: Computer Science and Artificial Intelligence
   - Graduation Year: expected May 2025
