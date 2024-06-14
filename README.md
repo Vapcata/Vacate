@@ -18,10 +18,10 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 - At night, I love going out to parties with my close friends, socializing, and meeting new people from all kinds of parts of life. I also occasionally play video games like League of Legends. My bigger brother gave me a PS2, and I love playing old-school games like Sims and Jack & Dexter a lot more. 
 ---
 
-### 🛠️ Technologies & Tools
+<!-- ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, Java, HTML & CSS , SQL and I always try to learn more languages and expand my abilities 
 - **Frameworks/Libraries:** PyTorch, Albumentations, TensorFlow, Scikit-learn, Keras, Matplotlib, Pandas, Numpy, Django, MongoDB
-- **Tools:** Jupyter, ChatGPT and more. (за ся толкоз)
+- **Tools:** Jupyter, ChatGPT and more. (за ся толкоз) -->
 
 ---
 
