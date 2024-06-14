@@ -19,7 +19,7 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, HTML & CSS and  I am always try to learn new languages and expand my abilities 
+- **Languages:** Python, JavaScript, Java, HTML & CSS and I always try to learn more languages and expand my abilities 
 - **Frameworks/Libraries:** PyTorch, Jupyter, Albumentations, [Add other frameworks/libraries]
 - **Tools:** [List any other tools like Docker, Git, etc.]
 
