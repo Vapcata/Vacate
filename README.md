@@ -20,8 +20,8 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, Java, HTML & CSS , SQL and I always try to learn more languages and expand my abilities 
-- **Frameworks/Libraries:** PyTorch, Jupyter, Albumentations, TensorFlow, Scikit-learn, Keras, Matplotlib, Pandas, Numpy, Django, MongoDB
-- **Tools:** ChatGPT, 
+- **Frameworks/Libraries:** PyTorch, Albumentations, TensorFlow, Scikit-learn, Keras, Matplotlib, Pandas, Numpy, Django, MongoDB
+- **Tools:** Jupyter, ChatGPT and more. (за ся толкоз)
 
 ---
 
@@ -29,7 +29,7 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 
 #### 1. Two Stage Detection of AgNORs from Histopathology Images
 - **Technologies:** PyTorch, Custom Dataset Handling, Albumentations 
-- **Description:** Developed an image processing pipeline to detect AgNORs in histopathology images, including image augmentations, classification, and object detection using PyTorch.
+- **Description:** Developed an image processing pipeline to detect AgNORs in histopathology images, including custom image augmentations, complete model for classification, and object detection mmodel using PyTorch.
 - **Achievements:** 
   - Implemented image classification with an F1-score performance measure.
   - Built an object detection model with a complete pipeline from initialization to performance reporting via AP.
@@ -37,25 +37,25 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 - **Image Placeholder:** `![Project Image](path/to/image.png)`
 
 #### 2. Transformer Model for Machine Translation (English to German)
-- **Technologies:** PyTorch, Europarl Parallel Corpus
+- **Technologies:** PyTorch, Europarl Parallel Corpus, NLTK, 
 - **Description:** Engineered a transformer-based machine translation system without using pre-trained weights; managed full lifecycle from model architecture design to training and evaluation.
 - **Results:** Achieved a BLEU score between 50 - 60.
-- **Training Details:** [Add details about model architecture, hyperparameters, etc.]
+- **Training Details:** [I will add details about model architecture, hyperparameters, etc.]
 - **Training Loss Curve:** `![Training Loss Curve](path/to/loss_curve.png)`
 
 #### 3. SMS Spam Classification
-- **Technologies:** Custom TF-IDF Vectorizer, Naive Bayes Classifier
+- **Technologies:** Custom TF-IDF and BoW vectorizer, Naive Bayes Classifier
 - **Description:** Created an SMS spam classifier implementing various text preprocessing techniques and evaluated using accuracy, precision, recall, and F1-score.
-- **Performance:** [Add specifics of model performance and feature importance analysis]
-- **Future Work:** Plans include improving model performance with LSTM, custom Bayes classifier, and exploring feature selection techniques.
+- **Performance:** [I will include specifics of model performance and feature importance analysis]
+- **Future Work:** Plans include improving model performance with LSTM and I also want to implement a custom Bayes classifier.
 - **Model Diagram:** `![Model Diagram](path/to/model_diagram.png)`
 
 ---
 
 ### 🎓 Education
 - **Technische Hochschule Ingolstadt**
-  - Field of Study: [Your Major]
-  - Graduation Year: [Your Graduation Year]
+  - Field of Study: Computer Science and Artificiall Intelligence
+  - Graduation Year: expected May 2025
 
 ---
 
