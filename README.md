@@ -27,7 +27,7 @@ _Student at Technische Hochschule Ingolstadt & Aspiring Intern_
 ### 🌟 Projects
 
 #### 1. Two Stage Detection of AgNORs from Histopathology Images
-- **Technologies:** PyTorch, Custom Dataset Handling
+- **Technologies:** PyTorch, Custom Dataset Handling, Albumentations 
 - **Description:** Developed an image processing pipeline to detect AgNORs in histopathology images, including image augmentations, classification, and object detection using PyTorch.
 - **Achievements:** 
   - Implemented image classification with an F1-score performance measure.
