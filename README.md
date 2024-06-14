@@ -1,4 +1,4 @@
-### Natural Language Processing | Computer Vision | Software Engeneering | Web Development
+### Natural Language Processing | Computer Vision | Software Engineering | Web Development
 ---
 ### 💡 About Me
 - I have a growing interest in Natural Language Processing and Computer Vision, and I always try to learn new things and research topics in the field of machine learning and artificial intelligence. The most interesting for me is NLP, and I love the newly developed ideas about transformers and attention, among many other things. I also enjoy spending time on projects that evolve my knowledge and skills!
