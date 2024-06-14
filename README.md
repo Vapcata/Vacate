@@ -1,11 +1,5 @@
 # Alexander Vaptsarov
 ### Natural Language Processing | Computer Vision | Software Development | Web Development
-_Student at Technische Hochschule Ingolstadt & Aspiring Intern_
----
-### 📫 Contact Information
-- **Student Email:** [alv3651@thi.de](mailto:alv3651@thi.de)
-- **Work Email:** [alexander.vaptsarov@gmail.com](mailto:alexander.vaptsarov@gmail.com)
-- **LinkedIn:** [alexander-vaptsarov](https://www.linkedin.com/in/alexander-vaptsarov/)
 ---
 ### 💡 About Me
 - I have a growing interest in Natural Language Processing and Computer Vision, and I always try to learn new things and research topics in the field of machine learning and artificial intelligence. The most interesting for me is NLP, and I love the newly developed ideas about transformers and attention, among many other things. I also enjoy spending time on projects that evolve my knowledge and skills!
